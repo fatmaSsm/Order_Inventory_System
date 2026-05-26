@@ -29,7 +29,7 @@ A robust, console-based **Order and Stock Management System** written in Python.
 
 Here is how the application workflow and user interfaces look in action:
 
-![Application Console Layout](assets/Order_Inventory_System.jpg)
+![Application Console Layout](Order_Inventory_System.jpg)
 
 ---
 
