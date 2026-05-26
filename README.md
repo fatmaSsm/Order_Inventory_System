@@ -1,5 +1,7 @@
 # 🛒 Order & Inventory System
 
+![Application Console Layout](Order_Inventory_System.jpg)
+
 A robust, console-based **Order and Stock Management System** written in Python. The application utilizes a layered architecture with object-oriented principles, featuring persistent SQLite storage and comprehensive transaction logging.
 
 ---
@@ -25,17 +27,14 @@ A robust, console-based **Order and Stock Management System** written in Python.
 
 ---
 
-## 📸 Preview & Interface
-
-Here is how the application workflow and user interfaces look in action:
-
-![Application Console Layout](Order_Inventory_System.jpg)
-
----
-
 ## 📥 Installation & Running
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
+
+---
+
+## 👩‍💻 Author
+- fatmaSsm
