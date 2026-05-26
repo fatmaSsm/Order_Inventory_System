@@ -1,6 +1,6 @@
 # 🛒 Order & Inventory System
 
-![Application Console Layout](Order_Inventory_System.jpg)
+![Application Console Layout](assets/Order_Inventory_System.jpg)
 
 A robust, console-based **Order and Stock Management System** written in Python. The application utilizes a layered architecture with object-oriented principles, featuring persistent SQLite storage and comprehensive transaction logging.
 
