@@ -39,5 +39,7 @@ A robust, console-based **Order and Stock Management System** written in Python.
    python main.py
 ```
 
+---
+
 ## 👩‍💻 Author
 * **Fatma Susam** - [@fatmaSsm](https://github.com/fatmaSsm)
