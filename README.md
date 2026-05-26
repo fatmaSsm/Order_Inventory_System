@@ -33,7 +33,11 @@ A robust, console-based **Order and Stock Management System** written in Python.
 ```bash
    git clone [https://github.com/fatmaSsm/Order_Inventory_System.git](https://github.com/fatmaSsm/Order_Inventory_System.git)
    cd Order_Inventory_System
----
+```
+2. **Run the application:**
+```bash
+   python main.py
+```
 
 ## 👩‍💻 Author
-- fatmaSsm
+* **Fatma Susam** - [@fatmaSsm](https://github.com/fatmaSsm)
