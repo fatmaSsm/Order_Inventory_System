@@ -36,7 +36,7 @@ A robust, console-based **Order and Stock Management System** written in Python.
 ```
 2. **Run the application:**
 ```bash
-   python main.py
+   python Order_Inventory_System.py
 ```
 
 ---
